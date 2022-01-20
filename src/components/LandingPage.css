@@ -1,0 +1,9 @@
+.Landingpage{
+height:100vh ;
+background-image: url("./music-wallpaper.jpg");
+background-repeat: no-repeat;
+/* height: 100vh; */
+background-size:  cover;
+background-position: center;
+
+}

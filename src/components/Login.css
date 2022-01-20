@@ -1,0 +1,21 @@
+
+.Login{
+    background-color: black;
+    display: grid;
+    place-items:center;  
+    height: 100vh;
+}
+
+
+.Login>a{
+    background-color: #1db954;
+    color: white;
+
+}
+.loginbutton{
+    margin-top: 400px;
+}
+.signupbutton{
+    margin-bottom: 200px;
+}
+
